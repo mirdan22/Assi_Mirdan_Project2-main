@@ -1,0 +1,30 @@
+Desktap Home Page Measurments 
+                
+home page: (1920} 12 calim grid                
+Header: W=1920    H=117
+Logo: W= 122   H= 140
+Main Nav: W= 1156   H= 448
+hero img: W= 1640   H=117
+3x drink img: W= 536   H= 650
+About img: W= 950   H= 700
+About text: W= 693   H= 700
+logo footer: W= 152   H= 80
+Nav footer: W= 1088     H= 88
+footer inc: W= 582     H= 60
+Footer media: W=122     H= 70 
+Nav footer: W= 122     H= 70
+ 
+Moblile Home Page Measurments:
+                 
+home page: (428) 4 calim grid                
+Header: W=428    H=116
+Logo: W= 120   H= 21 
+Burger menu: W=95    H=88 
+hero img: W= 428    H=458
+3x drink img: W= 360    H= 420
+About img: W= 428    H= 400
+About text: W= 388   H= 400
+logo footer: W=152   H= 113
+Nav footer: W= 388    H= 69
+footer inc: W= 182    H= 47
+Footer media: W= 186    H= 68
